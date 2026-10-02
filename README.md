@@ -129,7 +129,7 @@ Syntax highlighted code block
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
 
 ## AI를 활용한 문제 상황 구체화
-- Before\n
+- Before<\n>
   학식 메뉴만 보고 학생 식당에 가보니 먹고자 했던 메뉴가 품절이었던 적이 많은데 웹이나 앱으로 미리 재고 조회가 안 되니 불편했다.
 
 

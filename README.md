@@ -8,7 +8,7 @@
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
-<p><a href="poster.pdf">📄 포스터 PDF 보기 및 다운로드</a></p>
+<p><a href="poster.pdf"> 포스터 PDF 보기 및 다운로드</a></p>
 
 ***
 
